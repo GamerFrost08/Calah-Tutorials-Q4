@@ -138,7 +138,7 @@ body {
 
 .bg-img {
   /* The image used */
-  background-image: url("file:///C:/Users/GamerFrost/Downloads/Website%20IPBA%201/WEBSITE.png");
+  background-image: url("./WEBSITE.jpg");
   min-height: 350px;
   min-width: 1300px;
 
